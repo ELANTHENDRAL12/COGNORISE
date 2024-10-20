@@ -1,2 +1,0 @@
-# COGNORISE
-Task 1
